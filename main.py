@@ -39,7 +39,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="title">🎥 AI Object Detection</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🎥Live Object Detection & Tracing </div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">YOLOv8 + Webcam + Streamlit WebRTC</div>', unsafe_allow_html=True)
 
 # ---------- LAYOUT ----------
