@@ -6,7 +6,7 @@ import av
 import cv2
 
 # ---------- PAGE CONFIG ----------
-st.set_page_config(page_title="AI Detection", layout="wide")
+st.set_page_config(page_title="Live Object Detection & Tracing", layout="wide")
 
 # ---------- UI DESIGN ----------
 st.markdown("""
